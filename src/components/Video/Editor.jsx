@@ -7,7 +7,7 @@ import { socket } from "../../context/VideoState";
 import Codemirror from 'codemirror';
 import CodeMirror from '@uiw/react-codemirror';
 // import 'codemirror/lib/codemirror.css';
-import 'codemirror/mode/javascript/javascript';
+// import 'codemirror/mode/javascript/javascript';
 // import 'codemirror/addon/edit/closetag';
 // import 'codemirror/addon/edit/closebrackets';
 // import 'codemirror/lib/codemirror.css'
@@ -19,7 +19,7 @@ import 'codemirror/mode/javascript/javascript';
 // import { faCompressAlt, faExpandAlt } from '@fortawesome/free-solid-svg-icons'
 // import 'codemirror/theme/material.css'
 // import 'codemirror/mode/xml/xml'
-import 'codemirror/theme/dracula.css';
+// import 'codemirror/theme/dracula.css';
 //import { fromTextArea } from "codemirror";
 
 const Editor = () => {
@@ -140,9 +140,9 @@ useEffect(() => {
           value={messageReceived}
           ref={codeM}
           options = {{
-            theme: "dracula",
-            keymap: "sublime",
-            mode: "javascript",
+            // theme: "dracula",
+            keymap: "sublime"
+            // mode: "javascript",
           }}
            onChange={(value)=>{ onChanges(value)}}
            onKeyUp={(value1)=>{handleChange(value1)}}
