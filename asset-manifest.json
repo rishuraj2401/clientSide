@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rishuraj2401/clientSider/static/css/main.1f574a61.css",
+    "main.js": "/rishuraj2401/clientSider/static/js/main.fe029874.js",
+    "static/js/496.25abac0d.chunk.js": "/rishuraj2401/clientSider/static/js/496.25abac0d.chunk.js",
+    "static/media/teams.mp3": "/rishuraj2401/clientSider/static/media/teams.23d1d865aef25a8a9da4.mp3",
+    "static/media/phone.gif": "/rishuraj2401/clientSider/static/media/phone.b2c1ae6bbc583b062222.gif",
+    "static/media/gilroy.otf": "/rishuraj2401/clientSider/static/media/gilroy.0094146a0505298ed06a.otf",
+    "static/media/Gilroy-Light.otf": "/rishuraj2401/clientSider/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
+    "static/media/msg_illus.svg": "/rishuraj2401/clientSider/static/media/msg_illus.a7fd59ce03e6837038910be7639264c4.svg",
+    "static/media/man.svg": "/rishuraj2401/clientSider/static/media/man.2e482fe5ae8e381dd68cdd9cf280fa20.svg",
+    "index.html": "/rishuraj2401/clientSider/index.html",
+    "static/media/share_screen.svg": "/rishuraj2401/clientSider/static/media/share_screen.2998de9be9d8bdeb1fd7b05274a62e65.svg",
+    "static/media/video-off.svg": "/rishuraj2401/clientSider/static/media/video-off.81281c31155ad96b059c3da18342966f.svg",
+    "static/media/video.svg": "/rishuraj2401/clientSider/static/media/video.e038b6705ba3470adb0db87526e100df.svg",
+    "static/media/msg.svg": "/rishuraj2401/clientSider/static/media/msg.590bd963681ba490b2f6fbcacb93fd71.svg",
+    "main.1f574a61.css.map": "/rishuraj2401/clientSider/static/css/main.1f574a61.css.map",
+    "main.fe029874.js.map": "/rishuraj2401/clientSider/static/js/main.fe029874.js.map",
+    "496.25abac0d.chunk.js.map": "/rishuraj2401/clientSider/static/js/496.25abac0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f574a61.css",
+    "static/js/main.fe029874.js"
+  ]
+}
